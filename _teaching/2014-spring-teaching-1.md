@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "ECE 4330 Power Electronics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Electrical & Computer Engineering, Georgia Tech"
 date: 2014-01-01
