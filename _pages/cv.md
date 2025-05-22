@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: [/cv/](https://scholar.google.com/citations?hl=en&user=K4eycz0AAAAJ&view_op=list_works&sortby=pubdate)
 author_profile: true
 redirect_from:
   - /resume
