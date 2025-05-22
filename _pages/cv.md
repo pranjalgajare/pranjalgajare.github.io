@@ -1,10 +1,11 @@
 ---
-layout: archive
 title: "CV"
-permalink: [/cv/](https://scholar.google.com/citations?hl=en&user=K4eycz0AAAAJ&view_op=list_works&sortby=pubdate)
-author_profile: true
+#permalink: /cv/ # You might remove or comment this out as the page will redirect
 redirect_from:
-  - /resume
+  - /cv/ # This will be the path on your site that triggers the redirect
+  - /resume # This will also redirect to your Google Drive CV
+redirect_to: '[](https://drive.google.com/file/d/1CLgVOw_g_CTK3ibXIxqhJ9lVT-CtSCiQ/view?usp=sharing)'
+author_profile: false # Probably not needed if it's just a redirect
 ---
 
 {% include base_path %}
