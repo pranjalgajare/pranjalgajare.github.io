@@ -4,7 +4,7 @@ title: "CV"
 redirect_from:
   - /cv/ # This will be the path on your site that triggers the redirect
   - /resume # This will also redirect to your Google Drive CV
-redirect_to: '[](https://drive.google.com/file/d/1CLgVOw_g_CTK3ibXIxqhJ9lVT-CtSCiQ/view?usp=sharing)'
+redirect_to: 'https://drive.google.com/file/d/1CLgVOw_g_CTK3ibXIxqhJ9lVT-CtSCiQ/view?usp=sharing'
 author_profile: true # Probably not needed if it's just a redirect
 ---
 
