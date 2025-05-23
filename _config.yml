@@ -86,7 +86,7 @@ author:
   location         : "Atlanta, US"
   employer         : "Georgia Institute of Technology"
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=K4eycz0AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "pgajare6@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
