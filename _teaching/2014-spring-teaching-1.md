@@ -4,11 +4,11 @@ collection: teaching
 type: "ECE 4330 Power Electronics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Electrical & Computer Engineering, Georgia Tech"
-date: 2014-01-01
+date: 2021-08-01
 location: "Atlanta, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was the Teaching Assistant for the introductory power electronics course, taken by senior undergraduate students and first year graduate students. 
 
 Heading 1
 ======
