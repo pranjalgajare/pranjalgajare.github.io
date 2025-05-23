@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pranjal Gajare"
-  avatar           : "/images/my_image.jpeg"
+  avatar           : "paper_image.JPEG"
   bio              : "Power Electronics, Grid-connected Converters"
   location         : "Atlanta, US"
   employer         : "Georgia Institute of Technology"
