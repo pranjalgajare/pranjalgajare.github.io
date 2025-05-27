@@ -31,4 +31,8 @@ The power grid is undergoing a significant transformation as an increasing numbe
 1. P.M. Gajare, S. Kulkarni, D. Divan and R. Hao, “Universal AC/DC Current Sensor and Isolator” US patent 18/694,294. [(link)](https://patentimages.storage.googleapis.com/28/e2/17/766b8de54b842e/US20250132089A1.pdf)
 2. R. Hao, P. M. Gajare, S. Kulkarni, J. Benzaquen and D. Divan, “A Low-cost Miniature DC/AC-compatible Switched-Rogowski Current Sensor,” in 2023 IEEE Energy Conversion Congress and Exposition (ECCE), Nashville, TN, USA. [(link)](https://ieeexplore.ieee.org/abstract/document/10362623)
 
-### 
+### Control and Stability of DC-coupled Grid-forming Inverters
+With the increasing deployment of High-Voltage DC (HVDC) grids for IBR integration and bulk power transfer, the influence of DC-side dynamics in GFM inverters has emerged as a critical issue. This project addresses critical stability and control challenges for GFM inverters operating within these expanding networks. We discovered some new low-frequency oscillations that may arise due to the coupling between the DC and AC systems. Detailed findings can be found in the following publications:
+1. Z. Zeng, P. M. Gajare, D. Divan and M. Saeedifard, "Impact of DC Voltage Reference on Subsynchronous Dynamics in Grid-Forming Inverters," IEEE Transactions on Power Electronics, vol. 40, no. 7, pp. 8934-8938, July 2025. [(link)](https://ieeexplore.ieee.org/document/10909605)
+2. Z. Zeng, P. M. Gajare, J. Zhang, D. Divan and M. Saeedifard, "Decoupling of AC- and DC-Side Dynamics for Small-Signal Stability Analysis of DC Grid-Following Voltage-Sourced Converters," accepted for publication in 2025 IEEE Energy Conversion Congress and Exposition (ECCE), Philadelphia, PA, USA.
+
